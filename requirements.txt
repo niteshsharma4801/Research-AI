@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-mistralai
+langchain-text-splitters
+
+faiss-cpu
+sentence-transformers
+
+pypdf
+python-dotenv
+streamlit
+tavily
+beautifulsoup4
+requests
+lxml
